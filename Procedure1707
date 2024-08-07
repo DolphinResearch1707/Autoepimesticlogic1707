@@ -1,0 +1,11 @@
+InferenceAE1
+j<-------1
+while  j<2n
+ExpNum<-------StableExpansion(ZA,Alfa)
+Then Return "yes"
+Return "No"
+StableExpansion(ZA;k)
+Ez<---------ApplySimplify(A,KZ)
+if Stable(Ex,k)
+Then return(K,Ez)
+return(K,Assign)
